@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Lê Đức Phan Anh",
+      "gender": "Male",
+      "dob": "2000-04-22",
+      "phone": "0366155338",
+      "email": "anhldp@gmail.com",
+      "address": "Hà Tây",
+      "description": "phan anh desc",
+      "courses": "HTML, CSS",
+      "id": 1
+    }
+  ]
+}
